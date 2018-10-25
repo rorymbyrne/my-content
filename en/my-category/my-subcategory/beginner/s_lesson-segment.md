@@ -1,9 +1,10 @@
 ---
 index: 0
 title: Lesson segment
+published: true
 ---
 
-### TL:DR: Hello. This is a test of Washington Demo. 
+### TL:DR: Hello. This is a test of Washington Demo. Hi.
 
 What's the shortest way to sum up this segment? Don't just repeat the title. 
 
