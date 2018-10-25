@@ -3,7 +3,9 @@ index: 0
 title: Lesson segment
 ---
 
-### TL:DR: What's the shortest way to sum up this segment? Don't just repeat the title. 
+### TL:DR: Hello. This is a test of Washington Demo. 
+
+What's the shortest way to sum up this segment? Don't just repeat the title. 
 
 ## Use subheadings
 
